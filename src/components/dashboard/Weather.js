@@ -1,6 +1,4 @@
 import ReactWeather, { useOpenWeather } from 'react-open-weather';
-// import './weather.css'
-// import { makeStyles } from '@material-ui/core/styles';
 import styled from 'styled-components'
 
 

@@ -7,7 +7,6 @@ import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
 import { FloridaWeather, BremenWeather, AthensWeather, VictoriaWeather, AucklandWeather, JiangsuWeather, ShanghaiWeather } from './Weather'
 import moment from 'moment-timezone'
-// import styled from 'styled-components'
 
 
 const useStyles = makeStyles({
